@@ -1,0 +1,14 @@
+@font-face {
+  font-family: "playtime";
+  src: url("/wp-content/uploads/useanyfont/2482playtime.woff2") format("woff2"),
+    url("/wp-content/uploads/useanyfont/2482playtime.woff") format("woff");
+  font-display: auto;
+}
+
+.playtime {
+  font-family: "playtime" !important;
+}
+
+#body {
+  font-family: "playtime" !important;
+}
